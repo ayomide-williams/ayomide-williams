@@ -11,4 +11,4 @@ Electrical & Electronics Engineering graduate pivoting into Data Science.
 Building projects with SQL and Python to extract insights, optimize performance, and solve real-world problems across engineering, business, and industrial systems.
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?ayomide-williams=ayomide-williams&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayomide-williams&show_icons=true&theme=default)
