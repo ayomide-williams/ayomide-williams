@@ -5,8 +5,8 @@
 
 ## 🚀 Here's a bit about me
 
-<img src="https://img.icons8.com/color/48/graduation-cap.png" width="20"/> Electrical & Electronics Engineering graduate  
-<img src="https://img.icons8.com/color/48/combo-chart.png" width="20"/> Transitioning into Data Science  
-<img src="https://img.icons8.com/color/48/oil-industry.png" width="20"/> Interested in Oil & Gas Analytics  
-<img src="https://img.icons8.com/color/48/python.png" width="20"/> Learning Python & SQL  
-<img src="https://img.icons8.com/color/48/marker.png" width="20"/> Based in Nigeria  
+## 🚀 Here's a bit about me
+
+I'm an Electrical & Electronics Engineering graduate transitioning into Data Science, with an interest in applying data to solve real-world problems across engineering, business, and operations.
+Currently building hands-on projects using tools like SQL and Python, focusing on data analysis, performance insights, and decision-making.
+I’m particularly interested in energy and industrial systems, while continuously exploring broader applications of data across different domains. 
