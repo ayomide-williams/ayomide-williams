@@ -11,5 +11,3 @@
 
 👯 I’m looking to collaborate on multiple projects.
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayomide-williams&show_icons=true&theme=default)
