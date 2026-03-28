@@ -7,7 +7,9 @@
 ##  Here's a bit about me 😅
 
 👨‍💻 Engineering + Data Science
+
 ⚡️ Applying data to optimize operations, analyze systems & solve real-world problems
+
 👯 I’m looking to collaborate on multiple projects.
 
 
