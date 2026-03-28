@@ -7,6 +7,4 @@
 
 ## 🚀 Here's a bit about me
 
-I'm an Electrical & Electronics Engineering graduate transitioning into Data Science, with an interest in applying data to solve real-world problems across engineering, business, and operations.
-Currently building hands-on projects using tools like SQL and Python, focusing on data analysis, performance insights, and decision-making.
-I’m particularly interested in energy and industrial systems, while continuously exploring broader applications of data across different domains. 
+⚡️ Electrical & Electronics Engineering graduate pivoting into Data Science. Building projects with SQL and Python to extract insights, optimize performance, and solve real-world problems across engineering, business, and industrial systems.
