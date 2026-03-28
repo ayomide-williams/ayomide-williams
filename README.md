@@ -6,9 +6,9 @@
 
 ##  Here's a bit about me 😅
 
-Electrical & Electronics Engineering graduate pivoting into Data Science. 
-
-Building projects with SQL and Python to extract insights, optimize performance, and solve real-world problems across engineering, business, and industrial systems.
+👨‍💻 Engineering + Data Science
+⚡️ Applying data to optimize operations, analyze systems & solve real-world problems
+👯 I’m looking to collaborate on multiple projects.
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayomide-williams&show_icons=true&theme=default)
