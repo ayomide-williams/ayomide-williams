@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Ayomide
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%"/>
 </p>
 
 ##  Here's a bit about me 😅
