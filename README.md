@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Ayomide
 <div align= "center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&width=500&height=60&lines=I+am+an+Electrical+Engineer;Data+Scientist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&width=500&height=60&lines=I+am+an+Engineering+Graduate;And+a+Data+Scientist" alt="Typing SVG" />
   </a>
 </div>
 <p align="center">
